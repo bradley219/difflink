@@ -1,0 +1,12 @@
+autoscan: warning: missing AC_CHECK_HEADERS([sys/param.h]) wanted by: 
+	src/difflink.c:11
+autoscan: warning: missing AC_FUNC_LSTAT_FOLLOWS_SLASHED_SYMLINK wanted by: 
+	src/difflink.c:153
+	src/difflink.c:168
+autoscan: warning: missing AC_FUNC_MALLOC wanted by: 
+	src/difflink.c:17
+	src/difflink.c:49
+autoscan: warning: missing AC_FUNC_REALLOC wanted by: 
+	src/difflink.c:46
+autoscan: warning: missing AC_TYPE_SIZE_T wanted by: 
+	src/difflink.c:101
